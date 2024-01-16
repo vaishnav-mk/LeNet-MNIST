@@ -1,4 +1,4 @@
-# Image Classification with LeNet-5
+# Digit Recognizer using LeNet-5
 ![image](https://github.com/vaishnav-mk/lenet_mnist/assets/84540554/880c0268-4bb0-474f-8299-7aaa6887b53a)
 
 
