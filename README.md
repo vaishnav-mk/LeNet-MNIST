@@ -2,7 +2,7 @@
 ![image](https://github.com/vaishnav-mk/lenet_mnist/assets/84540554/880c0268-4bb0-474f-8299-7aaa6887b53a)
 
 
-This repository contains code for a simple image classification model using an enhanced LeNet-5 architecture. LeNet-5 is a convolutional neural network (CNN) designed by Yann LeCun and his collaborators for handwritten digit recognition. The enhanced version incorporates modern practices like ReLU activation, Batch Normalization, and Dropout for improved performance.
+This repository contains code for a simple image classification model using an enhanced [LeNet-5 architecture](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf). LeNet-5 is a convolutional neural network (CNN) designed by Yann LeCun and his collaborators for handwritten digit recognition. The enhanced version incorporates modern practices like ReLU activation, Batch Normalization, and Dropout for improved performance.
 
 ## Enhanced LeNet-5 Architecture
 
